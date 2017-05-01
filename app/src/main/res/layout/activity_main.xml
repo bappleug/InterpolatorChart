@@ -8,7 +8,8 @@
     tools:context="com.lestar.interpolatortester.MainActivity">
 
     <com.lestar.interpolatortester.InterpolatorChart
+        android:id="@+id/interpolatorChart"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="240dp"/>
 
 </LinearLayout>
